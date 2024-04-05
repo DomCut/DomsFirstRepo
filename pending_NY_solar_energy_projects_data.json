@@ -1,0 +1,349 @@
+[
+    {
+        "project_cost": "26462776.67",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-03-12T00:00:00.000",
+        "county": "Queens"
+    },
+    {
+        "contractor": "PowerFlex Solar, LLC",
+        "project_cost": "16882236.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-02-10T00:00:00.000",
+        "county": "Richmond"
+    },
+    {
+        "contractor": "Distributed Solar Operations, LLC",
+        "project_cost": "16270000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-03-16T00:00:00.000",
+        "county": "Orange"
+    },
+    {
+        "contractor": "PowerFlex Solar, LLC",
+        "project_cost": "16239276.92",
+        "project_status": "Pipeline",
+        "date_application_received": "2020-06-26T00:00:00.000",
+        "county": "Westchester"
+    },
+    {
+        "contractor": "SunPower Corporation, Systems",
+        "project_cost": "15996583.85",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-03-10T00:00:00.000",
+        "county": "Queens"
+    },
+    {
+        "contractor": "SunPower Corporation, Systems",
+        "project_cost": "15524774.50",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-03-08T00:00:00.000",
+        "county": "Queens"
+    },
+    {
+        "contractor": "You Save Green, Inc",
+        "project_cost": "15022800.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-01-13T00:00:00.000",
+        "county": "Westchester"
+    },
+    {
+        "contractor": "You Save Green, Inc",
+        "project_cost": "15022800.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-01-13T00:00:00.000",
+        "county": "Westchester"
+    },
+    {
+        "contractor": "ClearPath Energy LLC",
+        "project_cost": "14779500.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-11-16T00:00:00.000",
+        "county": "Chemung"
+    },
+    {
+        "contractor": "Green Street Power Partners, LLC",
+        "project_cost": "14602312.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-12-13T00:00:00.000",
+        "county": "Cattaraugus"
+    },
+    {
+        "contractor": "RESunance, LLC.",
+        "project_cost": "14175720.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-11-29T00:00:00.000",
+        "county": "Wayne"
+    },
+    {
+        "contractor": "RESunance, LLC.",
+        "project_cost": "14175719.99",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-11-29T00:00:00.000",
+        "county": "Cattaraugus"
+    },
+    {
+        "contractor": "RESunance, LLC.",
+        "project_cost": "14175450.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-11-29T00:00:00.000",
+        "county": "Cattaraugus"
+    },
+    {
+        "contractor": "New Energy Equity LLC",
+        "project_cost": "13690000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-06-08T00:00:00.000",
+        "county": "Essex"
+    },
+    {
+        "contractor": "Sky Solar Inc.",
+        "project_cost": "13584384.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2020-11-17T00:00:00.000",
+        "county": "Saratoga"
+    },
+    {
+        "contractor": "DG New York CS, LLC",
+        "project_cost": "13500000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-11-02T00:00:00.000",
+        "county": "Monroe"
+    },
+    {
+        "contractor": "ForeFront Power, LLC",
+        "project_cost": "13475000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-02-09T00:00:00.000",
+        "county": "St Lawrence"
+    },
+    {
+        "contractor": "ForeFront Power, LLC",
+        "project_cost": "13474999.99",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-11-04T00:00:00.000",
+        "county": "Genesee"
+    },
+    {
+        "contractor": "New Energy Equity LLC",
+        "project_cost": "13398529.50",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-06-08T00:00:00.000",
+        "county": "Orange"
+    },
+    {
+        "contractor": "Catalyze Holdings, LLC",
+        "project_cost": "13344879.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-12-13T00:00:00.000",
+        "county": "Ontario"
+    },
+    {
+        "contractor": "Sky Solar Inc.",
+        "project_cost": "13280256.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2020-11-17T00:00:00.000",
+        "county": "Saratoga"
+    },
+    {
+        "contractor": "Bullrock Corporation",
+        "project_cost": "13063442.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-11-02T00:00:00.000",
+        "county": "Wayne"
+    },
+    {
+        "contractor": "DG New York CS, LLC",
+        "project_cost": "13005000.01",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-07-27T00:00:00.000",
+        "county": "Albany"
+    },
+    {
+        "project_cost": "12669000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-07-28T00:00:00.000",
+        "county": "Saratoga"
+    },
+    {
+        "contractor": "ClearPath Energy LLC",
+        "project_cost": "12626000.01",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-09-21T00:00:00.000",
+        "county": "Onondaga"
+    },
+    {
+        "contractor": "IPPsolar Integration LLC",
+        "project_cost": "12525000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-09-21T00:00:00.000",
+        "county": "Dutchess"
+    },
+    {
+        "contractor": "Lighthouse Solar (dba for Sun Source Technologies)",
+        "project_cost": "12517000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-12-13T00:00:00.000",
+        "county": "Ulster"
+    },
+    {
+        "project_cost": "12500000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-11-29T00:00:00.000",
+        "county": "Monroe"
+    },
+    {
+        "contractor": "Distributed Solar Operations, LLC",
+        "project_cost": "12470000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2020-08-08T00:00:00.000",
+        "county": "Orange"
+    },
+    {
+        "contractor": "Scale Microgrid Solutions Operating, LLC",
+        "project_cost": "12244338.70",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-07-28T00:00:00.000",
+        "county": "Tioga"
+    },
+    {
+        "contractor": "Community Power Group, LLC",
+        "project_cost": "12115000.01",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-07-06T00:00:00.000",
+        "county": "Onondaga"
+    },
+    {
+        "contractor": "Community Power Group, LLC",
+        "project_cost": "12115000.01",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-07-06T00:00:00.000",
+        "county": "Albany"
+    },
+    {
+        "contractor": "Community Power Group, LLC",
+        "project_cost": "12114999.99",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-11-04T00:00:00.000",
+        "county": "Oneida"
+    },
+    {
+        "contractor": "Community Power Group, LLC",
+        "project_cost": "12114999.99",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-10-21T00:00:00.000",
+        "county": "Washington"
+    },
+    {
+        "contractor": "G&S Solar (dba for G&S Operations LLC)",
+        "project_cost": "12112800.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-07-30T00:00:00.000",
+        "county": "Westchester"
+    },
+    {
+        "contractor": "Sol Source Power",
+        "project_cost": "12093381.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-11-29T00:00:00.000",
+        "county": "Rensselaer"
+    },
+    {
+        "contractor": "Nexamp Inc",
+        "project_cost": "12070000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-05-08T00:00:00.000",
+        "county": "Genesee"
+    },
+    {
+        "contractor": "Abundant Solar Power Inc.",
+        "project_cost": "12000000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-09-22T00:00:00.000",
+        "county": "Onondaga"
+    },
+    {
+        "contractor": "Abundant Solar Power Inc.",
+        "project_cost": "12000000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-09-22T00:00:00.000",
+        "county": "Onondaga"
+    },
+    {
+        "contractor": "Abundant Solar Power Inc.",
+        "project_cost": "12000000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-11-04T00:00:00.000",
+        "county": "Onondaga"
+    },
+    {
+        "contractor": "DG New York CS, LLC",
+        "project_cost": "11978490.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-07-06T00:00:00.000",
+        "county": "Niagara"
+    },
+    {
+        "contractor": "Sol Customer Solutions, LLC",
+        "project_cost": "11935283.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2021-09-22T00:00:00.000",
+        "county": "Westchester"
+    },
+    {
+        "contractor": "PowerFlex Solar, LLC",
+        "project_cost": "11931984.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-04-15T00:00:00.000",
+        "county": "Westchester"
+    },
+    {
+        "contractor": "Renovus Energy, Inc",
+        "project_cost": "11930490.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-09-13T00:00:00.000",
+        "county": "Saratoga"
+    },
+    {
+        "contractor": "Scale Microgrid Solutions Operating, LLC",
+        "project_cost": "11897771.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2022-12-23T00:00:00.000",
+        "county": "Tioga"
+    },
+    {
+        "contractor": "IPPsolar Integration LLC",
+        "project_cost": "11855358.52",
+        "project_status": "Pipeline",
+        "date_application_received": "2020-05-30T00:00:00.000",
+        "county": "Orange"
+    },
+    {
+        "contractor": "Nexamp Inc",
+        "project_cost": "11800449.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2019-03-08T00:00:00.000",
+        "county": "Fulton"
+    },
+    {
+        "contractor": "Ascent Renewables LLC",
+        "project_cost": "11749170.80",
+        "project_status": "Pipeline",
+        "date_application_received": "2024-01-22T00:00:00.000",
+        "county": "Cayuga"
+    },
+    {
+        "contractor": "Prometheus Power Group",
+        "project_cost": "11716000.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-07-18T00:00:00.000",
+        "county": "Westchester"
+    },
+    {
+        "contractor": "Catalyze Holdings, LLC",
+        "project_cost": "11645337.00",
+        "project_status": "Pipeline",
+        "date_application_received": "2023-12-13T00:00:00.000",
+        "county": "Ontario"
+    }
+]
